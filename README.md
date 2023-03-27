@@ -11,8 +11,10 @@
 
 https://user-images.githubusercontent.com/123910027/222200503-712a0c10-7b6f-468a-9682-f5a7f09e0979.mp4
 
-Projeto desenvolvido em Java, no bootcamp da Generation Brasil no bloco 1. 
-
+<h3>Linguagem utilizada nesse projeto: Java</h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+</div>
 <h3>O que é o programa da Generation Brasil Devesenvolvedora Java Full-Stack?🎓</h3>
 
 O programa prático da Generation tem duração de 3 meses (447 H) e ensina as habilidades técnicas e comportamentais para ser um desenvolvedor Java Full-Stack com sessões interativas e práticas.
